@@ -1,6 +1,6 @@
 # HW1
 
-Due Saturday August 22 at 8 AM
+Due Monday August 24
 
 ####  Folder System.
 Create a folder titled STAT408 on the computer you plan to use for this course to store data sets and code from this class. (Also consider a system that will back up your files online - such as box, dropbox, or Google drive.)
